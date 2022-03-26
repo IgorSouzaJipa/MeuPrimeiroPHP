@@ -1,7 +1,6 @@
 <?php
 echo "Atividade 02 <br>";
 echo "Lista de alunos da sala <br>";
-
 echo "joão ";
 echo"<br> Maria";
 echo "Vinicius";
